@@ -2,7 +2,7 @@
 public class Robot {
 	public Robot (String name)
 	{
-		
+		System.out.print("Welcome, my name is "+name+", I'm a friendly robot");
 	}
 	public void pickup()
 	{
