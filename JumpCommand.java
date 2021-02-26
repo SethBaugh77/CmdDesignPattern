@@ -8,7 +8,7 @@ public class JumpCommand implements Command{
     }
     public void execute()
     {
-        robot.jump();
+        robot.Jump();
     }
     
 }
